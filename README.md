@@ -1,6 +1,6 @@
 # 1590b-isothermal
 
-A "daughter board" which attaches to the bottom of a Hammond 1590BB and regulates its temperature at 25C.
+A "daughter board" which attaches to the bottom of a Hammond 1590B and regulates its temperature at 25C.
 
 - [schematic](kicad/releases/v1/isothermal.pdf)
 - [gerber files](kicad/releases/v1)
