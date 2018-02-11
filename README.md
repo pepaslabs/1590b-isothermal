@@ -4,7 +4,7 @@ A "daughter board" which attaches to the bottom of a Hammond 1590B and regulates
 
 - [schematic](kicad/releases/v1/isothermal.pdf)
 - [gerber files](kicad/releases/v1)
-- [OSHPark link](https://oshpark.com/projects/2yNYiLGr)
+- [OSHPark link](https://oshpark.com/shared_projects/qRlewBCr)
 
 ![](kicad/releases/v1/top-large.png)
 ![](kicad/releases/v1/bottom-large.png)

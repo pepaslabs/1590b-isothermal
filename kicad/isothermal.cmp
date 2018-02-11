@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 11 Feb 2018 05:13:40 AM CST
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 11 Feb 2018 07:08:25 AM CST
 
 BeginCmp
 TimeStamp = /5A6AB275;
@@ -75,6 +75,13 @@ TimeStamp = /5A7FFF4C;
 Reference = D50;
 ValeurCmp = LED;
 IdModule  = LED_3MM_069A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A804143;
+Reference = D60;
+ValeurCmp = 1N5819;
+IdModule  = DIODE_1A_069A_04_PL;
 EndCmp
 
 BeginCmp

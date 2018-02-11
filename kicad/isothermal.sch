@@ -369,7 +369,7 @@ F 3 "~" H 11500 6750 60  0000 C CNN
 	1    11450 6750
 	1    0    0    1   
 $EndComp
-Text GLabel 11100 6550 1    60   Input ~ 0
+Text GLabel 10550 6550 1    60   Input ~ 0
 12V
 $Comp
 L GND #PWR08
@@ -657,8 +657,6 @@ Connection ~ 5850 2700
 Wire Wire Line
 	5850 2050 5850 1850
 Wire Wire Line
-	11100 6550 11100 6700
-Wire Wire Line
 	11100 6700 11250 6700
 Wire Wire Line
 	11250 6800 11100 6800
@@ -870,4 +868,19 @@ Text Notes 800  1400 0    80   ~ 0
 All resistors and IC's should be secured to the 1590B using thermal epoxy.
 Text Notes 750  5650 1    70   ~ 0
 Any TO-220 N-ch MOSFET should work.\nI'm using the IRF610.
+$Comp
+L SCHOTTKY D60
+U 1 1 5A804143
+P 10900 6700
+F 0 "D60" H 10900 6800 40  0000 C CNN
+F 1 "1N5819" H 10900 6600 40  0000 C CNN
+F 2 "~" H 10900 6700 60  0000 C CNN
+F 3 "~" H 10900 6700 60  0000 C CNN
+	1    10900 6700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10700 6700 10550 6700
+Wire Wire Line
+	10550 6700 10550 6550
 $EndSCHEMATC
