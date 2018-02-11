@@ -6,8 +6,8 @@ A "daughter board" which attaches to the bottom of a Hammond 1590B and regulates
 - [gerber files](kicad/releases/v1)
 - [OSHPark link](https://oshpark.com/projects/2yNYiLGr)
 
-![](kicad/releases/v1/top.png)
-![](kicad/releases/v1/bottom.png)
+![](kicad/releases/v1/top-large.png)
+![](kicad/releases/v1/bottom-large.png)
 
 The resistor values were chosen to map a 20C to 30C window onto (roughly) 0V to 3.3V.
 
